@@ -1,2 +1,0 @@
-# CalculatorPython
-Created with CodeSandbox
